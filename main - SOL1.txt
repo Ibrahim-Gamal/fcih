@@ -1,0 +1,9 @@
+package again;
+public class Again {
+    public static void main(String[] args) {
+        int arr[] = {1, 1,2,2};  
+        int n = arr.length;  
+        dominator z = new dominator();
+    z.GetDominator(arr, n);  
+    } 
+    }
